@@ -1,11 +1,11 @@
 variable "file_count" {
   description = "How many files to create"
   type = number
-  default = 3
+  default = 2
   }
 
 variable "content" {
-  description = "Thecontent of the files"
+  description = "The content of the files"
   type = string
 }
 
