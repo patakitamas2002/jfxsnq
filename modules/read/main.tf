@@ -1,6 +1,6 @@
 module "makeFile"{
     source = "../files"
-    content = "Shiba inu"
+    content = "Beadandó"
     name = "Task2"
     file_count = var.fileNum
 }
