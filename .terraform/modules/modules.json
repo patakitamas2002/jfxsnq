@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"task2","Source":"./modules/read","Dir":"modules/read"}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"task2","Source":"./modules/read","Dir":"modules/read"},{"Key":"task2.makeFile","Source":"../files","Dir":"modules/files"}]}
