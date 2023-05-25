@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"task2","Source":"./modules/read","Dir":"modules/read"},{"Key":"task2.makeFile","Source":"../files","Dir":"modules/files"},{"Key":"task3","Source":"./modules/write","Dir":"modules/write"}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"task2","Source":"./modules/read","Dir":"modules/read"},{"Key":"task2.makeFile","Source":"../files","Dir":"modules/files"},{"Key":"task3","Source":"./modules/write","Dir":"modules/write"},{"Key":"task4","Source":"./modules/data","Dir":"modules/data"}]}
